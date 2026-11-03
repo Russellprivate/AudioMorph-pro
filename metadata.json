@@ -1,0 +1,6 @@
+{
+  "name": "AudioMorph",
+  "description": "Fast video to audio converter with multi-format export, audio trimmer, biometric security, and cloud sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
